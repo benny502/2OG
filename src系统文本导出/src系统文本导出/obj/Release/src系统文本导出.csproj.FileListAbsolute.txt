@@ -1,0 +1,24 @@
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\bin\Release\src系统文本导出.exe
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\bin\Release\src系统文本导出.pdb
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Release\MainWindow.baml
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Release\MainWindow.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Release\App.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出_MarkupCompile.cache
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出.g.resources
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出.Properties.Resources.resources
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出.csproj.GenerateResource.Cache
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出.exe
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出.pdb
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出.csprojResolveAssemblyReference.cache
+G:\汉化\第二次机器人大战\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出.exe
+G:\汉化\第二次机器人大战\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出.pdb
+G:\汉化\第二次机器人大战\src系统文本导出\src系统文本导出\bin\Release\src系统文本导出.exe
+G:\汉化\第二次机器人大战\src系统文本导出\src系统文本导出\bin\Release\src系统文本导出.pdb
+G:\汉化\第二次机器人大战\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出.csprojResolveAssemblyReference.cache
+G:\汉化\第二次机器人大战\src系统文本导出\src系统文本导出\obj\Release\MainWindow.baml
+G:\汉化\第二次机器人大战\src系统文本导出\src系统文本导出\obj\Release\MainWindow.g.cs
+G:\汉化\第二次机器人大战\src系统文本导出\src系统文本导出\obj\Release\App.g.cs
+G:\汉化\第二次机器人大战\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出_MarkupCompile.cache
+G:\汉化\第二次机器人大战\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出.g.resources
+G:\汉化\第二次机器人大战\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出.Properties.Resources.resources
+G:\汉化\第二次机器人大战\src系统文本导出\src系统文本导出\obj\Release\src系统文本导出.csproj.GenerateResource.Cache

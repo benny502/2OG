@@ -1,0 +1,12 @@
+c:\users\鑫\documents\visual studio 2012\Projects\2og_logic_pack\2og_logic_pack\bin\Debug\2og_logic_pack.exe
+c:\users\鑫\documents\visual studio 2012\Projects\2og_logic_pack\2og_logic_pack\bin\Debug\2og_logic_pack.pdb
+c:\users\鑫\documents\visual studio 2012\Projects\2og_logic_pack\2og_logic_pack\obj\Debug\2og_logic_pack.csprojResolveAssemblyReference.cache
+c:\users\鑫\documents\visual studio 2012\Projects\2og_logic_pack\2og_logic_pack\obj\Debug\MainWindow.baml
+c:\users\鑫\documents\visual studio 2012\Projects\2og_logic_pack\2og_logic_pack\obj\Debug\MainWindow.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\2og_logic_pack\2og_logic_pack\obj\Debug\App.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\2og_logic_pack\2og_logic_pack\obj\Debug\2og_logic_pack_MarkupCompile.cache
+c:\users\鑫\documents\visual studio 2012\Projects\2og_logic_pack\2og_logic_pack\obj\Debug\2og_logic_pack.g.resources
+c:\users\鑫\documents\visual studio 2012\Projects\2og_logic_pack\2og_logic_pack\obj\Debug\_2og_logic_pack.Properties.Resources.resources
+c:\users\鑫\documents\visual studio 2012\Projects\2og_logic_pack\2og_logic_pack\obj\Debug\2og_logic_pack.csproj.GenerateResource.Cache
+c:\users\鑫\documents\visual studio 2012\Projects\2og_logic_pack\2og_logic_pack\obj\Debug\2og_logic_pack.exe
+c:\users\鑫\documents\visual studio 2012\Projects\2og_logic_pack\2og_logic_pack\obj\Debug\2og_logic_pack.pdb

@@ -1,0 +1,12 @@
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\bin\Debug\src系统文本导出.exe
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\bin\Debug\src系统文本导出.pdb
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Debug\src系统文本导出.csprojResolveAssemblyReference.cache
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Debug\MainWindow.baml
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Debug\MainWindow.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Debug\App.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Debug\src系统文本导出_MarkupCompile.cache
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Debug\src系统文本导出.g.resources
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Debug\src系统文本导出.Properties.Resources.resources
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Debug\src系统文本导出.csproj.GenerateResource.Cache
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Debug\src系统文本导出.exe
+c:\users\鑫\documents\visual studio 2012\Projects\src系统文本导出\src系统文本导出\obj\Debug\src系统文本导出.pdb

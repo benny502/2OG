@@ -1,0 +1,12 @@
+C:\Users\鑫\documents\visual studio 2012\Projects\2og_csb_pack\2og_csb_pack\bin\Debug\2og_csb_pack.exe
+C:\Users\鑫\documents\visual studio 2012\Projects\2og_csb_pack\2og_csb_pack\bin\Debug\2og_csb_pack.pdb
+C:\Users\鑫\documents\visual studio 2012\Projects\2og_csb_pack\2og_csb_pack\obj\Debug\2og_csb_pack.csprojResolveAssemblyReference.cache
+C:\Users\鑫\documents\visual studio 2012\Projects\2og_csb_pack\2og_csb_pack\obj\Debug\MainWindow.baml
+C:\Users\鑫\documents\visual studio 2012\Projects\2og_csb_pack\2og_csb_pack\obj\Debug\MainWindow.g.cs
+C:\Users\鑫\documents\visual studio 2012\Projects\2og_csb_pack\2og_csb_pack\obj\Debug\App.g.cs
+C:\Users\鑫\documents\visual studio 2012\Projects\2og_csb_pack\2og_csb_pack\obj\Debug\2og_csb_pack_MarkupCompile.cache
+C:\Users\鑫\documents\visual studio 2012\Projects\2og_csb_pack\2og_csb_pack\obj\Debug\2og_csb_pack.g.resources
+C:\Users\鑫\documents\visual studio 2012\Projects\2og_csb_pack\2og_csb_pack\obj\Debug\_2og_csb_pack.Properties.Resources.resources
+C:\Users\鑫\documents\visual studio 2012\Projects\2og_csb_pack\2og_csb_pack\obj\Debug\2og_csb_pack.csproj.GenerateResource.Cache
+C:\Users\鑫\documents\visual studio 2012\Projects\2og_csb_pack\2og_csb_pack\obj\Debug\2og_csb_pack.exe
+C:\Users\鑫\documents\visual studio 2012\Projects\2og_csb_pack\2og_csb_pack\obj\Debug\2og_csb_pack.pdb
